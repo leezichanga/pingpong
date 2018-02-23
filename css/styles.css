@@ -6,12 +6,14 @@ h1 {
 .important {
   float: right;
   text-align: left;
+  padding-left: 40px;
+
 
 
   }
 .unimportant {
   float: left;
-  background-color: blue;
+  background-color: #634c84;
   padding-left: 40px;
   padding-right:30px;
   padding-bottom: 800px;
