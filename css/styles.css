@@ -1,0 +1,41 @@
+
+h1 {
+  text-align: center;
+
+}
+.important {
+  float: right;
+  text-align: left;
+
+
+  }
+.unimportant {
+  float: left;
+  background-color: blue;
+  padding-left: 40px;
+  padding-right:30px;
+  padding-bottom: 800px;
+  padding-top: 40px;
+}
+h1 {
+ font-family: sans-serif;
+ color:
+}
+
+h2 {
+ font-family: sans-serif;
+ color:
+}
+
+p {
+ font-family: sans-serif;
+}
+
+#page-wrap {
+    width: 600px;
+    margin: 0 auto;
+}
+
+body {
+ background-color: #9eaf9e;
+}
