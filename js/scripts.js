@@ -1,4 +1,3 @@
-
 //business logic
 var numbersToBePingponged = [];
 
